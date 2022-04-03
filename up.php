@@ -2,7 +2,7 @@
 
 $secret_key = "CobraCum13"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = ""; //This is your file dir, also the link.. Not very important.
-$domain_url = 'http://lukederoos.com';//Add your website here, including https://
+$domain_url = 'https://lukederoos.com';//Add your website here, including https://
 $lengthofstring = 8; //Length of the file name
 
 function RandomString($length) {
